@@ -36,7 +36,7 @@
 # 📖 [portfoilo project] <a name="about-project"></a>
 
 
-**[Portfolio Project]** is a project about my 
+**[Portfolio Project]** Is my personal website built to give my future employers a look at my work and series of projects listed in it 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
