@@ -61,7 +61,7 @@
   text-align: left;
 }
 
-.author0 h1 {
+.author0 h3 {
   color: #172b4d;
   width: 100%;
   font-size: 40px;
@@ -224,7 +224,7 @@
 .about-section {
   width: 305px;
   top: 4769px;
-  border: 1px solid #dfe1e6;
+  border-right: 1px solid #dfe1e6;
   border-top-right-radius: 40px;
   padding: 10px;
   margin: auto;
