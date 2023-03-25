@@ -51,6 +51,10 @@
 
 /* PROJECT/ABOUT SECTION */
 
+.project {
+  display: grid;
+}
+
 .author0 {
   line-height: 52px;
   letter-spacing: 0;
@@ -113,7 +117,7 @@
   background-color: #fff;
   border: 1px solid #dfe1e6;
   height: 552px;
-  width: 327px;
+  width: 295px;
   left: 24px;
   top: 114px;
   border-radius: 16px;
@@ -216,10 +220,11 @@
 }
 
 .about-section {
+  width: 305px;
   top: 4769px;
   border: 1px solid #dfe1e6;
   border-top-right-radius: 40px;
-  padding: 12px;
+  padding: 10px;
   margin: auto;
   margin-top: 100px;
 }
