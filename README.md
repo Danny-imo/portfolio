@@ -94,6 +94,10 @@ To run the project, execute the following command:
 - LinkedIn: [@imo-daniel](https://www.linkedin.com/in/imo-daniel-b15585167)
 - Facebook: [@imoh-daniel](https://www.facebook.com/imoh.daniel.399?mibextid=ZbWKwL)
 
+👤 **Lala Aicha El Vadel**
+
+- GitHub: [leloufadel](https://github.com/leloufadel)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Key Features <a name="key-features"></a>
