@@ -243,7 +243,8 @@
   letter-spacing: 0;
   text-align: left;
 }
-.drop{
+
+.drop {
   margin-bottom: 100px;
 }
 
@@ -301,28 +302,6 @@
   rotate: 90deg;
 }
 
-/* CONTACT SECTION */
-
-.contact-section {
-  background-image: url("./image-folder/contact\ form\ shapes-mobile.svg");
-  /* display: flex;
-  flex-direction: column;
-  background-color: #6070ff;
-  background-repeat: no-repeat;
-  background-size: cover; */
-  background-color: #6070ff;
-  background-image: url(image/Contact1.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 779px;
-  width: 375px;
-  border-top-left-radius: 100px;
-  padding: 8px;
-  display: flex;
-  flex-direction: column;
-}
-  
-
 .contact-h {
   font-family: " Poppins", sans-serif;
   font-size: 40px;
@@ -343,7 +322,8 @@
   color: #ebebff;
   width: 100%;
 }
-.contact-section{
+
+.contact-section {
   background-color: #6070ff;
   background-image: url(image-folder/Contact1.png);
   background-repeat: no-repeat;
@@ -351,13 +331,13 @@
   height: 779px;
   width: 315px;
   border-top-left-radius: 100px;
-   padding: 8px; 
+  padding: 8px;
   display: flex;
   flex-direction: column;
-
   margin-left: 330px;
 }
-.contact-section h3{
+
+.contact-section h3 {
   font-family: 'Poppins', sans-serif;
   font-size: 40px;
   font-weight: 700;
@@ -370,12 +350,13 @@
   margin-bottom: 20px;
   margin-top: 120px;
 }
+
 .form-p {
   display: flex;
   margin-left: 12px;
   margin-right: 20px;
   margin-bottom: 300px;
- flex-direction: column; 
+  flex-direction: column;
 }
 
 .input-p {
@@ -406,7 +387,7 @@
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
-  color: #172B4D;
+  color: #172b4d;
   padding: 15px 38px 15px 16px;
 }
 
@@ -419,10 +400,8 @@
   background: #fff;
   border-radius: 8px;
   cursor: pointer;
-  color:#6070FF;
-  ;
+  color: #6070ff;
 }
-
 
 .btn-1:hover {
   background-color: #6070ff;
