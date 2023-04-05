@@ -95,9 +95,15 @@ To run the project, execute the following command:
 - Facebook: [@imoh-daniel](https://www.facebook.com/imoh.daniel.399?mibextid=ZbWKwL)
 
 
+
 👤 **Lala El vadel**
 
 - GitHub: [@leloufadel](https://github.com/leloufadel)
+
+👤 **Lala Aicha El Vadel**
+
+- GitHub: [leloufadel](https://github.com/leloufadel)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
