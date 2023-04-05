@@ -7,7 +7,7 @@
   
   
 
-  <h3><b>portfolio README</b></h3>
+  <h3><b>Personal portfolio README</b></h3>
 
 </div>
 
