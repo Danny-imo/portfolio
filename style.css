@@ -406,6 +406,7 @@
   letter-spacing: 0.03em;
   color: #6070ff;
   font-size: 17px;
+  border: #FFF 1px solid;
 }
 
 .btn-1:hover {
