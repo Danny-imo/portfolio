@@ -7,7 +7,7 @@
   
   
 
-  <h3><b>portfolio README</b></h3>
+  <h3><b>Personal portfolio README</b></h3>
 
 </div>
 
@@ -94,9 +94,16 @@ To run the project, execute the following command:
 - LinkedIn: [@imo-daniel](https://www.linkedin.com/in/imo-daniel-b15585167)
 - Facebook: [@imoh-daniel](https://www.facebook.com/imoh.daniel.399?mibextid=ZbWKwL)
 
+
+
+👤 **Lala El vadel**
+
+- GitHub: [@leloufadel](https://github.com/leloufadel)
+
 👤 **Lala Aicha El Vadel**
 
 - GitHub: [leloufadel](https://github.com/leloufadel)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,6 +119,9 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+- Add Mobile first contact Form 
+- Use Mobile first approch
+- Add  Responsiveness
 
 - [ ] **[More Images]**
 - [ ] **[JavaScript]**
@@ -163,8 +173,6 @@ I would like to thank...
 
 <!-- LICENSE -->
 
+
 ## 📝 License <a name="license"></a>
-
-This project is [MIT](./MIT.md) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed .
