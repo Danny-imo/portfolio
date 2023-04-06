@@ -328,13 +328,14 @@
   background-image: url(image-folder/Contact1.png);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position-x: 120%;
   height: 779px;
   width: 315px;
   border-top-left-radius: 100px;
   padding: 8px;
   display: flex;
   flex-direction: column;
-  margin-left: 330px;
+  margin: auto;
 }
 
 .contact-section h3 {
@@ -392,15 +393,19 @@
 }
 
 .btn-1 {
-  font-family: "Poppins", sans-serif;
-  align-items: center;
-  padding: 12px 16px;
-  width: 142px;
-  height: 48px;
-  background: #fff;
-  border-radius: 8px;
+ background-color: #FFFFFF;
   cursor: pointer;
-  color: #6070ff;
+  width: 152px;
+  height: 48px;  
+  border-radius: 8px;
+  padding: 12px, 16px, 12px, 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500px;
+  line-height: 24px;
+  text-align: center;  
+letter-spacing: 0.03em;
+color: #6070FF;
+font-size: 17px;
 }
 
 .btn-1:hover {
