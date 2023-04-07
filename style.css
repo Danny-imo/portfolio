@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
 * {
   font-family: "Poppins", sans-serif;
   color: ash;
@@ -419,4 +420,132 @@
 
 .btn-1:active {
   background-color: #2230d2;
+}
+
+.portfolio {
+  display:none;
+}
+
+
+
+@media screen and (min-width:768px) {
+ .portfolio {
+  margin-top: -50px;
+  margin-right: 40px;
+  display: block;
+ }
+
+ .navlist0 {
+  display: flex;
+  gap: 40px;
+  justify-content: flex-end;
+ }
+
+ .navlist {
+  list-style-type: none;
+ }
+
+ .ham {
+  display: none;
+ }
+
+ .main {
+  background-image: url("image-folder/Header\ bg.svg");
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position-y: -5px;
+  height: 816px;
+  width: 100%;
+  left: 0px;
+  top: 1px;  
+}
+.author h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0.3700000047683716px;
+  text-align: left;
+  height: 122px;
+width: 920px;
+
+}
+
+.pag {
+width: 70%;
+margin-top: -20px;
+}
+
+.main0 {
+  margin-left: 25%;
+  padding-top: 140px;
+}
+
+.socials {
+  margin-top: -40px;
+}
+.card {
+  height: 496px;
+width: 1156px;
+left: 0px;
+top: 0px;
+border-radius: 24px;
+
+}
+.margin {
+  display: flex;
+  gap: 50px;
+}
+
+
+.card-img1 {
+  height: 448px;
+  width: 544px;
+  left: 24px;
+  top: 24px;
+  border-radius: 8px;  
+}
+.tap{
+font-family: Poppins;
+font-size: 40px;
+font-weight: 700;
+line-height: 52px;
+letter-spacing: 0em;
+text-align: left;
+}
+.senior{
+  font-family: "Poppins",sans-serif;
+font-size: 18px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+}
+.canopy{
+  font-family: "Poppins",sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+}
+.canopy-p{
+font-family: "Poppins",sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+width: 496px;
+height: 50px;
+}
+.btn{
+font-family: "Poppins",sans-serif;
+font-size: 17px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: center;
+}
 }
