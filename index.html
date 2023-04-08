@@ -26,16 +26,16 @@
       </div>
       <div class="portfolio">
         <ul class="navlist0">
-          <li class="navlist">portfolio</li>
-          <li class="navlist">About</li>
-          <li class="navlist">contact</li>
+          <li class="navlist"><a href="#main">Portfolio</a></li>
+          <li class="navlist"><a href="#about">About</a></li>
+          <li class="navlist"><a href="#contact">Contact</a></li>
         </ul>
       </div>
     </nav>
   </header>
 
   <!-- HOME PAGE-->
-  <main class="main">
+  <main class="main" id="main">
     <div class="main0">
 
       <div class="author">
@@ -118,17 +118,17 @@
 
     <section class="project">
       <div class="card">
-        <div class="margin">
+        <div class="margin mrg">
         <div class="card-img">
           <img class="card-img1" src="./image-folder/Snapshoot Portfolio (1).png" alt="">
   
         </div>
         <div class="project-heading">
-          <h2>Multi-Post <br> Stories </h2>
+          <h2>Multi-Post Stories </h2>
           <ul class="canopy">
             <li class="senior">CANOPY</li>
             <li><img src="./image-folder/Counter.png" alt=""></li>
-            <li>Back End Dev</li>
+            <li>Full Stack Dev</li>
             <li><img src="./image-folder/Counter.png" alt=""></li>
             <li>2015</li>
           </ul>
@@ -137,6 +137,7 @@
             <ul class="canopy-list">
               <li class="list">HTML</li>
               <li class="list">CSS</li>
+              <li class="list">Ruby</li>
               <li class="list0">JavaScript</li>
             </ul>
   
@@ -151,15 +152,15 @@
     <div class="card">
       <div class="margin">
       <div class="card-img">
-        <img class="card-img1" src="./image-folder/Snapshoot Portfolio (3).png" alt="">
+        <img class="card-img1" src="./image-folder/sp.png" alt="">
 
       </div>
       <div class="project-heading">
-        <h2>Tonic</h2>
+        <h2>FACEBOOK 360</h2>
         <ul class="canopy">
           <li class="senior">CANOPY</li>
           <li><img src="./image-folder/Counter.png" alt=""></li>
-          <li>Back End Dev</li>
+          <li>Full Stack Dev</li>
           <li><img src="./image-folder/Counter.png" alt=""></li>
           <li>2015</li>
         </ul>
@@ -168,6 +169,7 @@
           <ul class="canopy-list">
             <li class="list">HTML</li>
             <li class="list">CSS</li>
+            <li class="list">Ruby</li>
             <li class="list0">JavaScript</li>
           </ul>
 
@@ -181,25 +183,26 @@
 
 
     <div class="card">
-      <div class="margin">
+      <div class="margin mrg">
       <div class="card-img">
         <img class="card-img1" src="./image-folder/Snapshoot Portfolio (4).png" alt="">
 
       </div>
       <div class="project-heading">
-        <h2>Multi-Post <br> Stories </h2>
+        <h2>Uber Navigation</h2>
         <ul class="canopy">
           <li class="senior">CANOPY</li>
           <li><img src="./image-folder/Counter.png" alt=""></li>
-          <li>Back End Dev</li>
+          <li>Lead Developer</li>
           <li><img src="./image-folder/Counter.png" alt=""></li>
-          <li>2015</li>
+          <li>2018</li>
         </ul>
         <p class="canopy-p">A daily selection of privately personalized reads; no accounts or sign-ups required.</p>
         <div class="canopy-css">
           <ul class="canopy-list">
             <li class="list">HTML</li>
             <li class="list">CSS</li>
+            <li class="list">Ruby</li>
             <li class="list0">JavaScript</li>
           </ul>
 
@@ -213,7 +216,7 @@
    <!--ABOUT SECTION-->
 
 
-  <section class="about-section">
+  <section class="about-section" id="about">
     <div class="main-content1">
       <div class="author0">
         <h3>
@@ -258,31 +261,35 @@
   </div>
 
   <div class="about">
+    <div class="split">
     <div class="about0">
     <h3>Languages  <i class="fas fa-angle-right" id="chev"></i> </h3>
     </div>
     <div class="lang-list">
     <ul class="lang">
-      <li class="lang-item"> <img src="./image-folder/Ellipse 1.png" alt="" class="im"> &nbsp; &nbsp; JavaScript</li>
-      <li class="lang-item"> <img src="./image-folder/Ellipse 1 (1).png" alt="" class="im"> &nbsp; &nbsp;  HTML</li>
-      <li class="lang-item"> <img src="./image-folder/Ellipse 1 (2).png" alt="" class="im"> &nbsp; &nbsp; CSS</li>
+      <li class="lang-item"> <img src="./image-folder/Ellipse 1.png" alt="" class="im"><p class="lang-p"> &nbsp; &nbsp; JavaScript</p></li>
+      <li class="lang-item"> <img src="./image-folder/Ellipse 1 (1).png" alt="" class="im"><p class="lang-p1"> &nbsp; &nbsp;  HTML</p></li>
+      <li class="lang-item"> <img src="./image-folder/Ellipse 1 (2).png" alt="" class="im"><p class="lang-p2"> &nbsp; &nbsp; CSS</p></li>
     </ul>
   </div>
 
   <div class="drop">
-    <p>Frameworks <i class="fas fa-angle-right"></i> </p>
+    <p>Frameworks <i class="fas fa-angle-right" id="arrow"></i> </p>
     <hr>
     <p>Skills &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i class="fas fa-angle-right"></i></p>
     <hr>
   </div>
 </section>
-<section class="contact-section">
+<section class="contact-section" id="contact">
   <div>
     <h3 class="contact-h">Contact me</h3>
     <p class="contact-p">If you have an application you are interested in developing, a feature that you need built or a project that needs coding. 
       I’d love to help with it!</p>
   </div>
+</div>
   <div>
+
+
     <form action="https://formspree.io/f/mrgvywlv" method="POST" class="form-p">
       <input type="text" id="name" name="name" required placeholder="Type your name" class="input-p" maxlength="30"><br>
     
