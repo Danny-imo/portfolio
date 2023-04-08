@@ -435,10 +435,18 @@
     display: flex;
     gap: 40px;
     justify-content: flex-end;
+   
   }
 
   .navlist {
     list-style-type: none;
+    
+  }
+  .navlist:hover { 
+    border-radius: 8px;
+    background-color: #0e3fc5;
+    transition-duration: 1s;
+    transition-delay: 1s;
   }
 
   .ham {
