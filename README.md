@@ -1,18 +1,10 @@
 <a name="readme-top"></a>
 
-
-- 
-
 <div align="center">
   
-  
-
   <h3><b>Personal portfolio README</b></h3>
 
 </div>
-
-
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -29,14 +21,13 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 
-# 📖 [portfoilo project] <a name="about-project"></a>
+# 📖 Personal portfoilo <a name="about-project"></a>
 
 
-**[Portfolio Project]** Is my personal website built to give my future employers a look at my work and series of projects listed in it 
+**Personal Portfolio** Is my personal website built to give my future employers a look at my work and series of projects listed in it 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,31 +91,24 @@ To run the project, execute the following command:
 
 - GitHub: [@leloufadel](https://github.com/leloufadel)
 
-👤 **Lala Aicha El Vadel**
-
-- GitHub: [leloufadel](https://github.com/leloufadel)
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Key Features <a name="key-features"></a>
 
 
-- [ ] **[HTML]**
-- [ ] **[CSS]**
-- [ ] **[Linters]**
+- [ ] **HTML**
+- [ ] **CSS**
+- [ ] **Linters**
+- [ ] **Animations**
+- [ ] **Device compatible responsiveness**
 
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Add Mobile first contact Form 
-- Use Mobile first approch
-- Add  Responsiveness
-
-- [ ] **[More Images]**
-- [ ] **[JavaScript]**
+- [ ] **JavaScript**
+- [ ] **Dynamics**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,22 +136,7 @@ If you like this project...
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+I would like to thank my partners
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
