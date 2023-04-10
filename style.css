@@ -439,14 +439,13 @@
     display: flex;
     gap: 40px;
     justify-content: flex-end;
-   
   }
 
   .navlist {
     list-style-type: none;
-    
   }
-  .navlist:hover { 
+
+  .navlist:hover {
     border-radius: 8px;
     background-color: #0e3fc5;
     transition-duration: 1s;
@@ -700,12 +699,5 @@
   a {
     color: #000;
     text-decoration: none;
-  }
-
-  .fa {
-    /* transform: rotate(65deg);
-    animation-duration: 2s;
-    background-color: rgb(39, 20, 209);
-    border: 1px solid red; */
   }
 }
