@@ -127,7 +127,7 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project please give it a star.
+If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,7 +136,7 @@ If you like this project please give it a star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank my partners and all those who assisted and contributed to the sucess of this project.
+I would like to thank my partners
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
