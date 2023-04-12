@@ -39,10 +39,6 @@
   width: 100%;
   font-size: 40px;
   font-weight: 700;
-  border: 1px solid red;
-  transform: rotate(5deg);
-  animation-duration: 2s;
-  background-color: rgb(39, 20, 209);
 }
 
 .content p {
